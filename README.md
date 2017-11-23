@@ -1,2 +1,4 @@
-# Tata Kelola Teknologi Informatika
-Dokumen Tata Kelola Teknologi Informatika Pemerintah Provinsi Banten 
+# Metode Audit Tata Kelola Teknologi Informatika di Pemerintahan
+Abstrak
+
+Dalam rangka menciptakan nilai tambah dan meminimalkan risiko Teknologi Informasi (TI) dibutuhkan manajemen pengelolaan semua sumber daya TI yang efisien dan efektif, antara lain melalui IT Governance (Tata Kelola TI). Berdasarkan tujuannya, audit Tata kelola TI memiliki tujuan yang berbeda dengan tiga jenis audit berdasarkan UU No. 15 tahun 2004, karena audit ini bertujuan khusus untuk memeriksa pengelolaan seluruh sumber daya TI (termasuk di dalamnya manajemen organisasi dan pimpinan), apakah dapat mendukung dan sejalan dengan strategi bisnis. Dibandingkan audit di sektor privat, audit di sektor publik dalam hal ini di instansi pemerintah, memerlukan perhatian khusus, karena karakteristik manajemen sektor publik berkaitan erat dengan kebijakan dan pertimbangan politik serta ketentuan perundang-undangan. Penelitian ini mengusulkan sebuah metode audit tata kelola TI di instansi pemerintah. Metode yang dihasilkan dapat dijadikan sebagai salah satu acuan auditor pemerintah dalam mengevaluasi risiko yang terkait dengan Tata Kelola TI di instansi pemerintah.
